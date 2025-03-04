@@ -1,15 +1,16 @@
 {
   "author": "ryuko",
   "language": "english",
-  "allowinbox": false,
+  "allowinbox": true,
   "adminonly": false,
   "autocreatedb": true,
   "approval": false,
   "premium": false,
   "autopost": true,
   "email": "sanjivfresh@gmail.com",
+  "prefix": "*"
   "operators": [
-    "100091459940475"
+    "100000856538718"
   ],
   "autorestart": {
     "status": false,
